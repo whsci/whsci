@@ -1,5 +1,5 @@
 ### Yo.
-Showtime.
+I'm whsci and I'm always looking fly.
 
 <!--
 **whsci/whsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
